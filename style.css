@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.homeimage{
+    background-image: url("images/homepage.jpg");
+    background-size: 100%;
+    height: auto;
+}
+.main{
+    margin-top: 29%;
+    margin-left: 690px;
+    font-family:fantasy;
+}
+.logo{
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #1f97c7;
+    padding: 0px 75px  ;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: 300;
+    margin-top: 7%;
+    margin-left: 62%;
+    margin-right: 75%;
+    width: 13%;
+
+    
+}
+
+.logo1{
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #1f97c7;
+    padding: 0px 75px  ;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: 300;
+    margin-left: 62%;
+    margin-right: 105%;
+    width: 13%;
+    
+    
+}
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand img{
+height: 30px;
+padding left: 90px;
+}
+.navbar-brand{
+    font-family:Quick sand;
+   }
+.navbar-nav li a
+{
+    color:  #fff;
+    font-weight: 900;
+ }
+ .btn{
+     width: 80px;
+    
+ } 
+  
+.accnt{
+    margin-left: 120px;
+}
+
+
+
+   /* SIGNUP NEW STARTS HERE */
+
+   #main{width:600px; height:auto; overflow:hidden; padding-bottom:80px; margin-left:1000px; margin-right:auto; 
+    border-radius:5px; padding-left:20px; margin-top:160px; border-top:3px double #f1f1f1; 
+    border-bottom:3px double #f1f1f1; padding-top:20px; line-height: 60px;font-weight: 900;color: white;
+    }
+    
+    #main table{font-family:"Comic Sans MS", cursive;}
+    /* css code for textbox */
+    #main .tb{height:28px; width:230px; border:1px solid #f26724; color:#fd7838; font-weight:bold; border-left:5px solid #f7f7f7; opacity:0.9;}
+    
+    #main .tb:focus{height:28px; border:1px solid #f26724; outline:none; border-left:5px solid #f7f7f7;}
+
+    /* css code for button*/
+    #main .btn{width:150px; height:32px; outline:none;  color:#f7f7f7; font-weight:bold; border:0px solid #f26724; 
+    text-shadow: 0px 0.5px 0.5px #fff; border-radius: 2px; font-weight: 600; color: #f26724; letter-spacing: 1px; 
+    font-size:14px; background-color:#f1f1f1; -webkit-transition: 1s; -moz-transition: 1s; transition: 1s;}
+  
+    #main .btn:hover{background-color:#f26724; outline:none;  border-radius: 2px; color:#f1f1f1; border:1px solid #f1f1f1;
+    -webkit-transition: 1s; -moz-transition: 1s; transition: 1s; }
+	
+    
+  
+    /* tvm starts here */
+    .features{
+        text-align: center;
+    }
+   .feature-img{
+       position: relative;
+       bottom: 105px;
+       margin-left: -10px;
+    
+   }
+   
+  .kovalam-details{
+      text-align:center;
+      font-weight: 500;
+      margin-left: 150px;
+      margin-right: 200px;
+    }
+    .Jatayu-details{
+        text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;  
+    }
+    .punaloor-details{
+        text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;  
+    }
+    .munroe-details{
+        text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;  
+    }
+        
+   .carousel-item{
+       height: 40rem;
+       background-color: #777;           
+         
+   }
+   .carousel-text{ 
+       line-height: 30px;
+       margin-left: 100px;
+       margin-right: 100px;
+       text-align: justify;
+       
+   }
+   .carousel-image{
+       position: sticky;
+       margin-left: 350px;
+   }
+   .container{
+       border: 10px ; 
+       padding: 80px 70px;
+       margin: 100px;
+      color: white;
+      font-weight: 500;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      text-align: center;      
+     }
